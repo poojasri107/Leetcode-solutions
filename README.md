@@ -13,6 +13,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/poojasri107/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0079-word-search](https://github.com/poojasri107/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -46,4 +47,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/poojasri107/Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/poojasri107/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/poojasri107/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
