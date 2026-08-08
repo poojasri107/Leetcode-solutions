@@ -26,4 +26,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/poojasri107/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/poojasri107/Leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/poojasri107/Leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
