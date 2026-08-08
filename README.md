@@ -34,4 +34,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/poojasri107/Leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/poojasri107/Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/poojasri107/Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/poojasri107/Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
