@@ -13,6 +13,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/poojasri107/Leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/poojasri107/Leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/poojasri107/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0079-word-search](https://github.com/poojasri107/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
