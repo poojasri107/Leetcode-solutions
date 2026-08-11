@@ -6,12 +6,14 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/poojasri107/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/poojasri107/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/poojasri107/Leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/poojasri107/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/poojasri107/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/poojasri107/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/poojasri107/Leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +32,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/poojasri107/Leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/poojasri107/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
