@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/poojasri107/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/poojasri107/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0075-sort-colors](https://github.com/poojasri107/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/poojasri107/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -38,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/poojasri107/Leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/poojasri107/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +64,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/poojasri107/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/poojasri107/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/poojasri107/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/poojasri107/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
