@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/poojasri107/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/poojasri107/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0079-word-search](https://github.com/poojasri107/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -57,4 +58,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/poojasri107/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/poojasri107/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
