@@ -20,6 +20,7 @@
 | [0006-zigzag-conversion](https://github.com/poojasri107/Leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/poojasri107/Leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/poojasri107/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/poojasri107/Leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/poojasri107/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/poojasri107/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/poojasri107/Leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
